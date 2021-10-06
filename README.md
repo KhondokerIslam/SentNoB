@@ -1,6 +1,6 @@
 # SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts
 
-This is the implementation of our paper "SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts". 
+This is the implementation of our paper "SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts". You can find the paper [here](http://sudiptakar.info/assets/files/sentnob_emnlp_2021.pdf)
 
 
 If you use any source codes or datasets included in this toolkit in your work, please cite the paper. The bibtex will be provided later.
@@ -41,7 +41,7 @@ language models.
 <br>
 <sup>4</sup> Fordham University, USA
 
-## SentNoB Dataset is available [here](https://drive.google.com/drive/folders/1Fzt-O6oLxqpmjArLRaJ0nIThs_8px0JE?usp=sharing) 
+## SentNoB Dataset is available [here](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts) 
 
 #### List of files
 
@@ -67,7 +67,7 @@ It is recommended to use virtual environment packages such as virtualenv. Follow
 
 ## Usage
 
-1. Download the SentNoB dataset from [here](https://drive.google.com/drive/folders/1Fzt-O6oLxqpmjArLRaJ0nIThs_8px0JE?usp=sharing)
+1. Download the SentNoB dataset from [here](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts)
 2. Unzip the folder
 3. Ensure the folder name is "SentNoB Dataset"
 4. Go to data_processing folder and run `python preprocess.py` to obtain the preprocessed data.
