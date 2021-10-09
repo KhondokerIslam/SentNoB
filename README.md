@@ -3,7 +3,21 @@
 This is the implementation of our paper "SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts". You can find the paper [here](http://sudiptakar.info/assets/files/sentnob_emnlp_2021.pdf).
 
 
-If you use any source codes or datasets included in this toolkit in your work, please cite the paper. The bibtex will be provided later.
+If you use any source codes or datasets included in this toolkit in your work, please cite the paper. The bibtex is listed below:
+```
+@inproceedings{sentnob-2021,
+    title = "SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts",
+    author = "Khondoker Ittehadul Islam,
+    Md Saiful Islam, 
+    Sudipta Kar, 
+    Mohammad Ruhul Amin",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = Nov,
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    abstract = "In this paper, we propose an annotated sentiment analysis dataset made of informally written Bangla texts. This dataset comprises public comments on news and videos collected from social media covering 13 different domains, including politics, education, and agriculture. These comments are labeled with one of the polarity labels, namely positive, negative, and neutral. One significant characteristic of the dataset is that each of the comments is noisy in terms of the mix of dialects and grammatical incorrectness. Our experiments to develop a benchmark classification system show that hand-crafted lexical features provide superior performance than neural network and pretrained language models. We have made the dataset and accompanying models presented in this paper publicly available at https://git.io/JuuNB.",
+}
+```
 
 ## Abstract
 In this paper, we propose an annotated sentiment
