@@ -1,6 +1,6 @@
 # SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts
 
-This is the implementation of our paper "SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts". You can find the paper [here](http://sudiptakar.info/assets/files/sentnob_emnlp_2021.pdf).
+This is the implementation of our paper "SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts". You can find the paper [here](https://aclanthology.org/2021.findings-emnlp.278.pdf).
 
 ## Abstract
 In this paper, we propose an annotated sentiment
