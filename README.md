@@ -116,21 +116,12 @@ It is recommended to use virtual environment packages such as virtualenv. Follow
 
 ## Bibtex
 ```
-@inproceedings{islam-etal-2021-sentnob-dataset,
-    title = "{S}ent{N}o{B}: A Dataset for Analysing Sentiment on Noisy {B}angla Texts",
-    author = "Islam, Khondoker Ittehadul  and
-      Kar, Sudipta  and
-      Islam, Md Saiful  and
-      Amin, Mohammad Ruhul",
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
-    month = nov,
-    year = "2021",
-    address = "Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.findings-emnlp.278",
-    doi = "10.18653/v1/2021.findings-emnlp.278",
-    pages = "3265--3271",
-    abstract = "In this paper, we propose an annotated sentiment analysis dataset made of informally written Bangla texts. This dataset comprises public comments on news and videos collected from social media covering 13 different domains, including politics, education, and agriculture. These comments are labeled with one of the polarity labels, namely positive, negative, and neutral. One significant characteristic of the dataset is that each of the comments is noisy in terms of the mix of dialects and grammatical incorrectness. Our experiments to develop a benchmark classification system show that hand-crafted lexical features provide superior performance than neural network and pretrained language models. We have made the dataset and accompanying models presented in this paper publicly available at https://git.io/JuuNB.",
+@inproceedings{islam2021sentnob,
+  title={SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts},
+  author={Islam, Khondoker Ittehadul and Kar, Sudipta and Islam, Md Saiful and Amin, Mohammad Ruhul},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2021},
+  pages={3265--3271},
+  year={2021}
 }
 ```
    
